@@ -1,0 +1,4 @@
+venv
+output
+*.bmp
+input_waypoints.kml
